@@ -1,0 +1,57 @@
+h1 {
+	text-align: right;
+	color: black;
+	font-family: Verdana;
+}
+
+h2 {
+	text-align: center;
+	color: black;
+	font-family: Verdana;
+}
+
+h3 {
+	text-align: center;
+	color: black;
+	font-family: Verdana;
+}
+
+p {
+	font-family: Verdana;
+	color: #060406;
+	text-align: center;
+	padding-right: 15%;
+	padding-left: 15%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: auto;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+li a:hover {
+  background-color: #C690CC;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 20%;
+}
